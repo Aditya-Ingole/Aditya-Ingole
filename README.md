@@ -1,3 +1,12 @@
+https://i.pinimg.com/originals/89/75/d1/8975d1b1d54bd7c850be86f8014e2185.gif
+
+
+
+
+
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on mastering front-end web development techniques and creating compelling user interfaces.<br><br>👯 I’m looking to collaborate on projects that involve innovative front-end web development, such as using modern frameworks like React.js, Vue.js, or Angular.<br><br>🤝 I’m looking for help with advanced front-end techniques like state management (Redux, Vuex), CSS frameworks (Bootstrap, Tailwind CSS), and optimizing web performance.<br><br>🌱 I’m currently learning more about responsive design, web accessibility, and improving user experience through front-end development.<br><br>💬 Ask me about best practices in front-end web development, tips for designing user-friendly interfaces, or how to integrate APIs to enhance web applications.<br><br>⚡ Fun fact: The "404 Not Found" error message, commonly encountered on the web, originated from the room number 404 at CERN, where the World Wide Web was invented.
 
