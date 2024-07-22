@@ -1,11 +1,3 @@
-https://i.pinimg.com/originals/89/75/d1/8975d1b1d54bd7c850be86f8014e2185.gif
-
-
-
-
-
-
-
 
 ![](GitGIF.gif)
 # 💫 About Me:
